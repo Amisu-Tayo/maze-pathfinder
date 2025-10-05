@@ -48,7 +48,7 @@ A new maze will appear, and the algorithm will animate its way from **Start (Gre
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/maze-pathfinder.git
+git clone https://github.com/Amisu-Tayo/maze-pathfinder.git
 cd maze-pathfinder
 ```
 
