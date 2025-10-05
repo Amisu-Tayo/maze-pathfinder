@@ -8,7 +8,7 @@ Each run creates a new randomized maze, then visualizes the search process in re
 ## 🎮 Preview
 ![Maze Pathfinder Preview](assets/preview.png)
 
-*(Replace the image above with your own screenshot or GIF — see instructions below.)*
+
 
 Run the app:
 ```bash
